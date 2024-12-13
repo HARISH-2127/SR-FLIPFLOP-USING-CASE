@@ -59,3 +59,6 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 
 **RESULTS**
+
+Thus,the SR flipflop using verilog and validating their functionality using their functional tables is implemented successfully.
+
